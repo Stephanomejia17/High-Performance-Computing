@@ -1,1 +1,8 @@
-*.[eE][xX][eE]
+# Ignorar archivos ejecutables
+*.out
+*.exe
+*.bin
+*.o
+*.class
+*.elf
+*.obj
